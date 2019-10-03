@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.demo.dto.StudentInfo;
+import com.example.demo.model.StudentInfo;
 import com.example.demo.service.StudentService;
 
 @RestController

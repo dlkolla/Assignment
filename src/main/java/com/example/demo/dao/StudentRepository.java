@@ -7,8 +7,8 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
-import com.example.demo.dto.StudentInfo;
 import com.example.demo.entity.Student;
+import com.example.demo.model.StudentInfo;
 import com.example.demo.utils.Constants;
 
 @Repository
